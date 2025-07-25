@@ -1,57 +1,73 @@
-<h1 align="center">Hi there, I'm Heba Mohamed 👋</h1>
+<!-- Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+</p>
+
+<h1 align="center">Hey 👋 I'm Heba Mohamed</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=Backend+Developer;Django+is+my+Superpower;Loves+clean+code+%F0%9F%92%BB;Building+beautiful+backend+architectures" alt="Typing SVG" />
+  <em>A creative and passionate <strong>Backend Developer</strong> crafting scalable apps with 🐍 Django & PostgreSQL.</em><br>
+  <em>Based in Egypt 🇪🇬 | Bug creator since 2021 🐞 | Code poet 💡</em>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Django+Developer;Backend+Lover+%F0%9F%A7%A0;Clean+Code+Advocate;Tailwind+Fan+%F0%9F%AA%9C;Database+Ninja+%F0%9F%94%8E" />
 </p>
 
 ---
 
-### 💡 About Me
-
-- 🐍 Django Developer with a love for Pythonic code  
-- 🎓 Skilled in **Python**, **C++**, **Java**, **HTML/CSS**, **Tailwind CSS**  
-- 🗃️ Working with **PostgreSQL**, **SQL**, and clean database schemas  
-- 🔧 Currently mastering **Django** for full-stack backend development  
-- 📍 Based in Egypt, available for collaboration and open-source contributions  
-
----
-
-### 🚀 Tech Stack
+### 🔧 Tech Toolbox
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" alt="Django" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" alt="TailwindCSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++" />
+  <img src="https://skillicons.dev/icons?i=python,django,postgresql,html,css,tailwind,java,cpp,git,github" />
 </p>
 
 ---
 
-### 📈 GitHub Stats
+### 🚀 Projects & Goals
+
+- ✅ Building REST APIs with Django REST Framework  
+- 🛠 Currently exploring advanced **Django security & scaling** techniques  
+- ✨ Dream: Launch an open-source Django SaaS  
+- 📦 Upcoming: Dockerizing all my backend projects!
+
+---
+
+### 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=heba-mohamed&show_icons=true&theme=radical" alt="Heba's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=heba-mohamed&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=heba-mohamed&show_icons=true&theme=tokyonight&hide_border=true&hide=prs" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=heba-mohamed&theme=tokyonight&hide_border=true" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heba-mohamed&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 🧠 Fun Fact
+### 🌈 Fun Fact
 
-> “I thought programming was hard — until I made my first bug. Then I realized, it’s just creative debugging!”
+> 💬 “I don’t just write code — I engineer logic and creativity into reality!”
 
 ---
 
-### 📬 Let's Connect!
+### 📫 Contact Me
 
 <p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/heba-mohamed" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/heba-mohamed" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+</p>
+
+<p align="center">
+  <b>“Code, Coffee, and Creativity ☕”</b>
 </p>
