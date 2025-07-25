@@ -1,23 +1,37 @@
-<!-- 🌊 Animated Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e8acf&height=200&section=header&text=Heba%20Mohamed&fontSize=45&fontAlignY=40&fontColor=ffffff&desc=Backend%20Developer%20|%20Django%20%7C%20PostgreSQL&descAlignY=60" />
-</p>
 
-<!-- 🧙‍♀️ Who Am I -->
-<h2 align="center">✨ Meet the Backend Wizard</h2>
+<!-- 🧙‍♀️ Creative README | Heba Mohamed -->
 
 <p align="center">
-  <strong>Heba Mohamed</strong> — conjuring APIs with <b>Django</b> and <b>PostgreSQL</b> since 2021 🐍🐘 <br>
-  From Egypt 🇪🇬 | Clean code enthusiast ✨ | Bug whisperer 🐞
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Heba%20Mohamed&fontAlign=center&fontColor=ffffff&color=0e8acf&desc=Backend%20Developer%20%7C%20Django%20%7C%20PostgreSQL&descAlign=70&descAlignY=60&fontSize=40" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0E8ACF&center=true&vCenter=true&multiline=true&width=500&lines=Backend+Engineer+%F0%9F%92%BB;Django+Lover+%F0%9F%A7%A0;REST+API+Builder;PostgreSQL+Junkie;Open+Source+Dreamer" />
-</p>
+<div align="center">
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FFD9&center=true&vCenter=true&multiline=true&width=600&height=80&lines=🧠+Backend+Engineer+from+Egypt+%F0%9F%87%AA%F0%9F%87%AC;🐍+Django+%7C+🐘+PostgreSQL+%7C+TailwindCSS" />
+
+</div>
 
 ---
 
-### 🧰 My Toolbox
+## 💡 About Me
+
+```bash
+$ whoami
+👋 Hi, I'm Heba Mohamed
+
+$ role
+🧙‍♀️ Backend Developer | Clean Code Magician
+
+$ skills
+🐍 Django • PostgreSQL • REST APIs • TailwindCSS
+
+$ location
+🌍 Egypt | Languages: 🇸🇦 Arabic | 🇺🇸 English | 🇰🇷 Korean
+```
+
+---
+
+## 🧰 Tech Toolbox
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,postgresql,html,css,tailwind,git,github,cpp,java" />
@@ -25,38 +39,42 @@
 
 ---
 
-### 🚀 Current Adventures
+## 🚀 Current Missions
 
-- 🔐 Leveling up in Django Security & Middleware  
-- 🌍 Crafting a powerful Django SaaS boilerplate  
-- 🐳 Exploring Docker, CI/CD, and automation  
-- 🔎 Optimizing PostgreSQL like a pro
+```bash
+🔐 Fortifying Django apps with Security & Middleware
+⚙️ Building scalable SaaS starter kits in Django
+🐳 Mastering Docker & GitHub Actions (CI/CD)
+📈 Optimizing PostgreSQL performance
+```
 
 ---
 
-### 📊 Stats & Insights
+## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=heba-mohamed&show_icons=true&theme=tokyonight&hide_border=true&hide=prs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=heba-mohamed&show_icons=true&theme=highcontrast&hide_border=true&include_all_commits=true" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=heba-mohamed&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=heba-mohamed&theme=highcontrast&hide_border=true" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heba-mohamed&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heba-mohamed&layout=compact&theme=highcontrast&hide_border=true" />
 </p>
 
 ---
 
-### 🌟 Fun Facts
+## 🌟 Fun Facts About Me
 
-- 🧠 Turning real-world chaos into clean code
-- 🎯 Obsessive about writing elegant, scalable code
-- 🎨 TailwindCSS is my design canvas
-- 🗣 Multilingual: Arabic | English | Korean
-- ☕ Coffee-powered coding: Turkish brew + Python logic
+```bash
+📐 I turn complex logic into beautiful backend solutions
+🎨 TailwindCSS is my design language
+🧘 Clean code makes me sleep better
+☕ Turkish coffee is my debugger
+🌐 Passionate about open source & tech communities
+```
 
 ---
 
-### 📬 Let’s Connect
+## 📫 Contact Me
 
 <p align="center">
   <a href="mailto:heba.mohamed@btu.edu.eg">
@@ -69,11 +87,8 @@
 
 ---
 
-<!-- 🔚 Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e8acf&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0e8acf" />
 </p>
 
-<p align="center">
-  <b><i>“From bugs to brilliance — one line of code at a time.”</i></b>
-</p>
+<p align="center"><b><i>“From bugs to brilliance — one line of code at a time.”</i></b></p>
