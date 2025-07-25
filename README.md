@@ -1,82 +1,90 @@
+<!-- 🔮 Interactive & Animated README | Heba Mohamed -->
 
-<!-- 🌀 Interactive README | Heba Mohamed -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Heba+Mohamed+%F0%9F%9A%80;Backend+Engineer+%7C+Django+Wizard+%7C+PostgreSQL+Whisperer" />
+</h1>
 
-<h1 align="center">🚀 Heba Mohamed</h1>
-<h3 align="center"><code>Backend Engineer • Django Sorceress • PostgreSQL Whisperer</code></h3>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/9727339/213923524-6cb35570-89e1-4b42-ae88-60c25b265c9b.gif" width="180" />
+</p>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=22&pause=1000&color=F7A90C&center=true&vCenter=true&width=550&lines=Building+robust+APIs+with+Django;Optimizing+databases+with+PostgreSQL;Designing+clean+and+secure+code;Pushing+code+at+2am+with+Turkish+coffee" />
-</div>
-
----
-
-<details>
-  <summary>📌 Who is Heba?</summary>
-
-  ```bash
-  🧕 Full Name: Heba Mohamed
-  🐍 Role: Backend Developer (Python • Django)
-  🐘 Database: PostgreSQL fanatic
-  ✨ Specialty: Clean code, security, scalability
-  🌐 Location: Egypt 🇪🇬
-  ```
-</details>
-
-<details>
-  <summary>🧰 Tech Stack</summary>
-
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,django,postgresql,tailwind,html,css,git,github,cpp,java" />
-  </p>
-</details>
-
-<details>
-  <summary>🚀 Currently Working On</summary>
-
-  ```markdown
-  🔐 Securing Django apps with custom middleware
-  📦 Launching a reusable SaaS boilerplate with DRF
-  🐳 Deploying via Docker + GitHub Actions
-  📈 Query tuning in PostgreSQL for big data
-  ```
-</details>
-
-<details>
-  <summary>📈 GitHub Stats</summary>
-
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=heba-mohamed&show_icons=true&theme=gruvbox&hide_border=true" />
-    <br />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=heba-mohamed&theme=gruvbox&hide_border=true" />
-    <br />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heba-mohamed&layout=compact&theme=gruvbox&hide_border=true" />
-  </p>
-</details>
-
-<details>
-  <summary>🎯 Fun Facts</summary>
-
-  ```bash
-  💡 TailwindCSS is my design playground
-  🧘 Clean code is my daily zen
-  ☕ Turkish coffee fuels my backend logic
-  🌍 Languages I speak: Arabic | English | Korean
-  ```
-</details>
+<p align="center">
+  <img src="https://img.shields.io/badge/Django-Magician-%2317A2B8?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-Enthusiast-%23316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clean%20Code-Zen%20Master-%23FFD43B?style=for-the-badge&logo=python&logoColor=black" />
+</p>
 
 ---
 
-### 📫 Let’s Connect
+## 🌟 About Me
+
+```yaml
+name: Heba Mohamed
+role: Backend Engineer
+based_in: Egypt 🇪🇬
+specialty: Django, PostgreSQL, API architecture
+currently:
+  - Building scalable Django SaaS platforms
+  - Diving into PostgreSQL performance tuning
+  - Automating Dockerized pipelines
+  - Writing 2AM code with Turkish coffee
+```
+
+---
+
+## 🧰 Toolbox & Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,postgresql,docker,git,github,linux,tailwind,html,css,cpp,java,vscode" />
+</p>
+
+---
+
+## ⚙️ What I'm Working On
+
+🎯 Launching a **SaaS boilerplate** with Django + DRF  
+🔒 Creating **custom middlewares** for security  
+📊 Query tuning for **big PostgreSQL datasets**  
+🐳 Dockerizing everything — **one container to rule them all**
+
+---
+
+## 📊 Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=heba-mohamed&show_icons=true&theme=tokyonight&hide_border=true" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=heba-mohamed&theme=tokyonight&hide_border=true" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heba-mohamed&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 💡 Fun Bytes
+
+- 🧠 *"I believe clean architecture is the real magic wand."*  
+- 🧘‍♀️ Clean code is my peace ritual  
+- ☕ Turkish coffee + Python = ❤️  
+- 🗣 Languages I speak: **Arabic | English | Korean**
+
+---
+
+## 📬 Connect With Me
 
 <p align="center">
   <a href="mailto:heba.mohamed@btu.edu.eg">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/heba-mohamed-a60b42334" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/heba-mohamed-a60b42334">
+    <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<p align="center"><i>"I don't just write code, I shape backend experiences."</i></p>
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?bgColor=%23222222&qColor=%23F7A90C&aColor=%23FFADAD&borderColor=%230A0A0A" />
+</p>
+
+<p align="center"><i>“I don’t just write code — I architect backend magic.”</i></p>
