@@ -1,92 +1,85 @@
-<!-- 🌟 Creative & Animated GitHub README | Heba Mohamed -->
+<!-- 🌌 Minimal Yet Dynamic GitHub README | Heba Mohamed -->
 
-<h1 align="center">✨ Heba Mohamed ✨</h1>
-<p align="center"><strong>Backend Engineer | Django Whisperer | API Sorceress</strong></p>
+<h1 align="center">Hey there, I'm <span style="color:#f7a90c;">Heba Mohamed</span> 👋</h1>
+<h3 align="center">💻 Backend Developer | 🐍 Pythonista | 🛡 Security-Oriented Coder</h3>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="180" />
+</p>
 
 ---
 
-## 🧙‍♀️ About Me
+### 🧾 Quick Intro
 
-```json
-{
-  "name": "Heba Mohamed",
-  "role": "Backend Developer",
-  "stack": ["Django", "PostgreSQL", "Docker"],
-  "location": "Egypt 🇪🇬",
-  "fun_fact": "I debug with Turkish coffee ☕"
-}
+```python
+class Heba:
+    def __init__(self):
+        self.role = "Backend Engineer"
+        self.tech_stack = ["Django", "PostgreSQL", "Docker", "DRF"]
+        self.location = "Egypt 🇪🇬"
+        self.secret = "Coffee powers everything ☕"
+
+    def build(self):
+        return "Clean, scalable, and secure APIs"
+
+    def __str__(self):
+        return "Just a girl who codes backends with magic 🧙‍♀️"
 ```
 
 ---
 
-## 🛠️ Tech Toolbox
+### 🧰 Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,postgresql,docker,git,github,linux,tailwind,html,css,cpp,java,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,django,postgresql,git,github,docker,linux,html,css,tailwind,cpp,java" />
 </p>
 
 ---
 
-## 🔥 Featured Skills
+### 🚀 Projects & Focus
 
-- 💻 Building secure and scalable Django apps
-- 🧵 Designing RESTful APIs with DRF
-- 🐘 PostgreSQL query optimization
-- 🐳 Dockerizing apps for CI/CD pipelines
-- 🔐 Security-first middleware practices
-
----
-
-## 🎯 Current Missions
-
-```markdown
-✔️ Develop reusable Django SaaS boilerplate
-✔️ Implement JWT + OAuth2 login systems
-✔️ Optimize PostgreSQL views + indexes
-✔️ Push bug fixes @ 2am with Turkish coffee
-```
+- 📦 Reusable Django SaaS starter kit
+- 🔒 Advanced security middleware
+- 🐳 Dockerized API stacks
+- 🔍 PostgreSQL analytics and performance
+- ⚙️ Automation using GitHub Actions
 
 ---
 
-## 📊 GitHub Insights
+### 📈 My GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=heba-mohamed&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=heba-mohamed&show_icons=true&theme=midnight-purple&hide_border=true" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=heba-mohamed&theme=radical&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heba-mohamed&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=heba-mohamed&theme=midnight-purple&hide_border=true" />
 </p>
 
 ---
 
-## 🧩 Random Dev Fact
+### 💬 Fun Dev Facts
 
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=dark" />
-</p>
+- ✍️ Writes backend logic like poetry
+- 🧠 Obsessed with performance and clarity
+- ☕ Turkish coffee + Django = productive Heba
+- 🌐 Speaks: Arabic, English, Korean
 
 ---
 
-## 📮 Let’s Connect
+### 📬 Let's Collaborate
 
 <p align="center">
   <a href="mailto:heba.mohamed@btu.edu.eg">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-FF6F61?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/heba-mohamed-a60b42334">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fc466b,100:3f5efb&height=120&section=footer&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=100&section=footer&animation=fadeIn" />
 </p>
 
-<p align="center"><i>Turning code into experiences, one backend at a time.</i></p>
+<p align="center"><i>"Coding is not just syntax — it's storytelling with logic."</i></p>
