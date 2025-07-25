@@ -1,72 +1,72 @@
 
-<!-- 🧬 Creative README | Heba Mohamed - Style: Card Showcase -->
+<!-- 🌀 Interactive README | Heba Mohamed -->
 
-<h1 align="center">🧬 Heba Mohamed</h1>
-<p align="center"><i>Backend Developer | Django • PostgreSQL • Clean Code Enthusiast</i></p>
+<h1 align="center">🚀 Heba Mohamed</h1>
+<h3 align="center"><code>Backend Engineer • Django Sorceress • PostgreSQL Whisperer</code></h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=26F7C7&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Backend+Engineer+from+Egypt+🇪🇬;Clean+Architecture+|+Secure+Code+|+Django+Craft" />
+  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=22&pause=1000&color=F7A90C&center=true&vCenter=true&width=550&lines=Building+robust+APIs+with+Django;Optimizing+databases+with+PostgreSQL;Designing+clean+and+secure+code;Pushing+code+at+2am+with+Turkish+coffee" />
 </div>
 
 ---
 
-### 🌌 About Me
+<details>
+  <summary>📌 Who is Heba?</summary>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Django-Backend-black?style=for-the-badge&logo=django" />
-  <img src="https://img.shields.io/badge/PostgreSQL-DB-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-Styling-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-</div>
+  ```bash
+  🧕 Full Name: Heba Mohamed
+  🐍 Role: Backend Developer (Python • Django)
+  🐘 Database: PostgreSQL fanatic
+  ✨ Specialty: Clean code, security, scalability
+  🌐 Location: Egypt 🇪🇬
+  ```
+</details>
 
-```bash
-I'm Heba Mohamed 👩‍💻 — turning complex ideas into powerful APIs.
-🔒 Passionate about security, clarity, and performance.
-🎯 Currently focused on Django SaaS templates and CI/CD automation.
-```
+<details>
+  <summary>🧰 Tech Stack</summary>
+
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=python,django,postgresql,tailwind,html,css,git,github,cpp,java" />
+  </p>
+</details>
+
+<details>
+  <summary>🚀 Currently Working On</summary>
+
+  ```markdown
+  🔐 Securing Django apps with custom middleware
+  📦 Launching a reusable SaaS boilerplate with DRF
+  🐳 Deploying via Docker + GitHub Actions
+  📈 Query tuning in PostgreSQL for big data
+  ```
+</details>
+
+<details>
+  <summary>📈 GitHub Stats</summary>
+
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=heba-mohamed&show_icons=true&theme=gruvbox&hide_border=true" />
+    <br />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=heba-mohamed&theme=gruvbox&hide_border=true" />
+    <br />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heba-mohamed&layout=compact&theme=gruvbox&hide_border=true" />
+  </p>
+</details>
+
+<details>
+  <summary>🎯 Fun Facts</summary>
+
+  ```bash
+  💡 TailwindCSS is my design playground
+  🧘 Clean code is my daily zen
+  ☕ Turkish coffee fuels my backend logic
+  🌍 Languages I speak: Arabic | English | Korean
+  ```
+</details>
 
 ---
 
-### 🧰 Tools & Tech
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,postgresql,git,github,tailwind,html,css,cpp,java" />
-</div>
-
----
-
-### 🧠 Projects I'm Into
-
-```markdown
-📦 Django SaaS Starter - Full-stack boilerplate for startups
-🔐 Django Security Middleware Extensions
-🛠 PostgreSQL Query Optimization Guide
-⚙️ Dockerized RESTful Services with CI/CD
-```
-
----
-
-### 📈 GitHub Insights
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=heba-mohamed&theme=dark&show_icons=true&hide_border=true" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heba-mohamed&layout=compact&theme=dark&hide_border=true" />
-</div>
-
----
-
-### ☕ Fun Stuff
-
-```markdown
-🧘 I debug with Turkish coffee and late-night logic.
-💡 I dream in code and think in functions.
-🎨 Tailwind is my CSS love language.
-🌍 Multilingual: Arabic | English | Korean
-```
-
----
-
-### 📫 Contact Me
+### 📫 Let’s Connect
 
 <p align="center">
   <a href="mailto:heba.mohamed@btu.edu.eg">
@@ -79,4 +79,4 @@ I'm Heba Mohamed 👩‍💻 — turning complex ideas into powerful APIs.
 
 ---
 
-<p align="center"><b><i>“Code isn't just logic — it's art you can execute.”</i></b></p>
+<p align="center"><i>"I don't just write code, I shape backend experiences."</i></p>
