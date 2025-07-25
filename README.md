@@ -1,94 +1,82 @@
 
-<!-- 🧙‍♀️ Creative README | Heba Mohamed -->
+<!-- 🧬 Creative README | Heba Mohamed - Style: Card Showcase -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Heba%20Mohamed&fontAlign=center&fontColor=ffffff&color=0e8acf&desc=Backend%20Developer%20%7C%20Django%20%7C%20PostgreSQL&descAlign=70&descAlignY=60&fontSize=40" />
-</p>
+<h1 align="center">🧬 Heba Mohamed</h1>
+<p align="center"><i>Backend Developer | Django • PostgreSQL • Clean Code Enthusiast</i></p>
 
 <div align="center">
-
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FFD9&center=true&vCenter=true&multiline=true&width=600&height=80&lines=🧠+Backend+Engineer+from+Egypt+%F0%9F%87%AA%F0%9F%87%AC;🐍+Django+%7C+🐘+PostgreSQL+%7C+TailwindCSS" />
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=26F7C7&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Backend+Engineer+from+Egypt+🇪🇬;Clean+Architecture+|+Secure+Code+|+Django+Craft" />
 </div>
 
 ---
 
-## 💡 About Me
+### 🌌 About Me
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Django-Backend-black?style=for-the-badge&logo=django" />
+  <img src="https://img.shields.io/badge/PostgreSQL-DB-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-Styling-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+</div>
 
 ```bash
-$ whoami
-👋 Hi, I'm Heba Mohamed
-
-$ role
-🧙‍♀️ Backend Developer | Clean Code Magician
-
-$ skills
-🐍 Django • PostgreSQL • REST APIs • TailwindCSS
-
-$ location
-🌍 Egypt | Languages: 🇸🇦 Arabic | 🇺🇸 English | 🇰🇷 Korean
+I'm Heba Mohamed 👩‍💻 — turning complex ideas into powerful APIs.
+🔒 Passionate about security, clarity, and performance.
+🎯 Currently focused on Django SaaS templates and CI/CD automation.
 ```
 
 ---
 
-## 🧰 Tech Toolbox
+### 🧰 Tools & Tech
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,postgresql,html,css,tailwind,git,github,cpp,java" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,postgresql,git,github,tailwind,html,css,cpp,java" />
+</div>
 
 ---
 
-## 🚀 Current Missions
+### 🧠 Projects I'm Into
 
-```bash
-🔐 Fortifying Django apps with Security & Middleware
-⚙️ Building scalable SaaS starter kits in Django
-🐳 Mastering Docker & GitHub Actions (CI/CD)
-📈 Optimizing PostgreSQL performance
+```markdown
+📦 Django SaaS Starter - Full-stack boilerplate for startups
+🔐 Django Security Middleware Extensions
+🛠 PostgreSQL Query Optimization Guide
+⚙️ Dockerized RESTful Services with CI/CD
 ```
 
 ---
 
-## 📊 My GitHub Stats
+### 📈 GitHub Insights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=heba-mohamed&show_icons=true&theme=highcontrast&hide_border=true&include_all_commits=true" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=heba-mohamed&theme=dark&show_icons=true&hide_border=true" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=heba-mohamed&theme=highcontrast&hide_border=true" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heba-mohamed&layout=compact&theme=highcontrast&hide_border=true" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heba-mohamed&layout=compact&theme=dark&hide_border=true" />
+</div>
 
 ---
 
-## 🌟 Fun Facts About Me
+### ☕ Fun Stuff
 
-```bash
-📐 I turn complex logic into beautiful backend solutions
-🎨 TailwindCSS is my design language
-🧘 Clean code makes me sleep better
-☕ Turkish coffee is my debugger
-🌐 Passionate about open source & tech communities
+```markdown
+🧘 I debug with Turkish coffee and late-night logic.
+💡 I dream in code and think in functions.
+🎨 Tailwind is my CSS love language.
+🌍 Multilingual: Arabic | English | Korean
 ```
 
 ---
 
-## 📫 Contact Me
+### 📫 Contact Me
 
 <p align="center">
   <a href="mailto:heba.mohamed@btu.edu.eg">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/heba-mohamed-a60b42334" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0e8acf" />
-</p>
-
-<p align="center"><b><i>“From bugs to brilliance — one line of code at a time.”</i></b></p>
+<p align="center"><b><i>“Code isn't just logic — it's art you can execute.”</i></b></p>
