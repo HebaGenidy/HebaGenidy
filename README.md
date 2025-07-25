@@ -53,14 +53,22 @@
 
 ### 📫 Contact Me
 
+<h2 align="center">📬 Connect With Me</h2>
+
 <p align="center">
-  <a href="mailto:heba.mohamed@btu.edu.eg">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
+  <a href="mailto:heba.mohamed@btu.edu.eg" target="_blank">
+    <img src="https://img.shields.io/badge/Email-heba.mohamed@btu.edu.eg-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
   </a>
+  <br><br>
   <a href="https://linkedin.com/in/heba-mohamed-a60b42334" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+    <img src="https://img.shields.io/badge/LinkedIn-Heba%20Mohamed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
+  <br><br>
+  <a href="https://github.com/heba-mohamed" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-heba--mohamed-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
   </a>
 </p>
+
 
 
 ---
