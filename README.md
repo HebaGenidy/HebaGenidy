@@ -1,80 +1,78 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hey+there!+I'm+Heba+Mohamed+%F0%9F%91%8B;Backend+Engineer+who+lives+for+Django+%2B+Databases+%F0%9F%90%8D;Code.+Ship.+Repeat.+%F0%9F%9A%80" />
-</p>
-
----
-
-### 💡 About Me
-
-<img align="right" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="200" />
-
-- 🐍 **Pythonista & Django backend developer**  
-- 🧠 Passionate about solving **real-world problems with clean backend logic**  
-- 🌐 I speak: APIs, PostgreSQL, Docker, & Tailwind fluently  
-- ✨ I see code as creativity + structure = art  
-- 🛠 Started building bugs in 2021 — and learned from every one 🐞
-
----
-
-### 🔧 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,postgresql,git,github,docker,html,css,tailwind,cpp,java&perline=8" />
-</p>
-
----
-
-### 📦 Current Projects
-
-🎯 **Mission**: Build a fully dockerized Django SaaS  
-🚀 Working on:
-- DRF + PostgreSQL APIs  
-- Caching & Scaling Django apps  
-- Writing tests like a backend ninja 🥷  
-- 🔒 Implementing security best practices  
-- 💬 Building user feedback & analytics features
-
----
-
-### 📈 GitHub Stats
+<h1 align="center">👋 Hi there, I'm Heba Mohamed</h1>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=heba-mohamed&show_icons=true&theme=algolia&hide_border=true&rank_icon=github" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=heba-mohamed&theme=algolia&hide_border=true" height="150"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heba-mohamed&layout=compact&theme=algolia&hide_border=true" height="120"/>
+  <img src="https://raw.githubusercontent.com/Ileriayo/ileriayo/master/images/header.gif" alt="header"/>
 </div>
 
----
-
-### 🌈 Fun Zone
-
-> “Backend is the invisible magic behind beautiful user experiences.”  
-
-🎵 While coding, I usually vibe to:  
-[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31tjly3mkn3xxzwqk6rhcyab7n4e)](https://open.spotify.com/user/31tjly3mkn3xxzwqk6rhcyab7n4e)
+<p align="center">📬 Open to backend opportunities • Passionate about scalable APIs</p>
 
 ---
 
-### 📫 Let's Connect!
-
+<h2 align="center">👩‍💻 Whoami</h2>
 <p align="center">
-  <a href="mailto:heba.mohamed@btu.edu.eg"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/heba-mohamed-a60b42334" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/heba-mohamed"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <samp>
+    A passionate Django backend developer from Egypt 🇪🇬. I craft secure, scalable, and testable APIs using Django REST Framework and PostgreSQL.  
+    <br>  
+    My goal is to build open-source SaaS projects and contribute to impactful tools for developers.  
+    <br><br>
+    <img src="https://komarev.com/ghpvc/?username=heba-mohamed" alt="Profile views counter" />
+  </samp>
 </p>
 
 ---
 
-### ✍️ Quote I Live By
+<h2 align="center">🔧 Tools of the Trade</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&center=true&vCenter=true&width=600&lines=Clean+code+isn't+written+once%2C+it's+crafted+forever.;Every+bug+is+a+lesson+in+disguise.;Create+systems%2C+not+scripts."/>
+  Django REST • DRF Permissions • Signals • PostgreSQL • Tailwind • Git • GitHub • Docker • CI/CD Basics
 </p>
 
 ---
 
+<h2 align="center">📝 My Blog Articles</h2>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0E91EC&height=100&section=footer"/>
+  <a href="https://medium.com/@heba-mohamed"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://dev.to/heba"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
 </p>
+
+---
+
+<h2 align="center">📫 Contact Me</h2>
+<p align="center">
+  <a href="https://linkedin.com/in/heba-mohamed-a60b42334" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:heba.mohamed@btu.edu.eg"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/heba-mohamed"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+<h2 align="center">💻 Featured Projects</h2>
+<p align="center">
+  🔹 <b>Django RESTful API for E-Commerce</b><br>
+  🔹 <b>Multi-authentication System with JWT</b><br>
+  🔹 <b>Blog CMS with Django Admin Customization</b><br>
+</p>
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=heba-mohamed&show_icons=true&theme=radical&hide_border=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=heba-mohamed&theme=radical&hide_border=true" height="150"/>
+</p>
+
+---
+
+<h2 align="center">🧠 Fun Fact</h2>
+<p align="center"><i>"I don’t just write backend — I design logic for real-world systems."</i></p>
+
+---
+
+<h2 align="center">⬇️ Explore My Repos</h2>
