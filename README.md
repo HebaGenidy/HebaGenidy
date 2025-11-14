@@ -1,100 +1,109 @@
-<!-- TOP HEADER -->
+<!-- COVER PAGE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:8e2de2,100:4a00e0&text=Heba%20Mohamed%20(HebaGenidy)&fontColor=ffffff&fontSize=42&animation=fadeIn" />
+  <img src="https://img.shields.io/badge/HebaGenidy%20•%20Full--Stack%20Developer-000000?style=for-the-badge&logoColor=white" />
 </p>
 
-<!-- SUBTITLE -->
+<h1 align="center" style="font-weight:900; font-size:48px;">HEBA MOHAMED</h1>
+<h3 align="center" style="font-weight:400;">Full-Stack Developer • Sustainable Tech Enthusiast • Creator</h3>
+
+<br>
+
+<!-- SECTION DIVIDER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Sustainable+Tech+Enthusiast;Creative+Problem+Solver;Open-Source+Contributor" />
-</p>
-
----
-
-## 🧊 **About Me**
-<div style="background: rgba(255, 255, 255, 0.1); padding: 20px; border-radius: 15px;">
-I'm **Heba Mohamed**, a full-stack developer crafting clean, creative, and sustainable digital solutions.  
-I love blending **technology + design** to build powerful, meaningful tools.
-</div>
-
----
-
-## 🛠️ **Tech Stack**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,python,django,postgresql,git,github,cpp,java&perline=6" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=black&height=2&section=header" width="70%">
 </p>
 
 ---
 
-## 🧩 **Featured Projects**
+## 🖋️ **PROFILE SUMMARY — The Art of Building With Purpose**
+I'm **Heba Mohamed (HebaGenidy)**, a developer focused on **clean software architecture**,  
+**sustainable technology**, and **modern, human-centered experiences**.
 
-### 🛒 **Shopilo — Modern E-Commerce Platform**
-A Django-powered shopping experience with cart, authentication & admin dashboards.  
-🔗 https://github.com/HebaGenidy/shopilo-webapp
-
----
-
-### 🎨 **W3Schools Clone — UI/UX Practice**
-A clean, responsive learning interface rebuilt from scratch.  
-🔗 https://github.com/HebaGenidy/W3Clone
+I combine **technical craft + aesthetic design + thoughtful problem-solving**  
+to create impactful digital products.
 
 ---
 
-### 🎓 **Learning System Platform**
-Education-focused platform for managing courses & materials.  
-🔗 https://github.com/HebaGenidy/learning-system
+## 🧰 **Technical Toolbox — My Creative Instruments**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,django,react,tailwind,js,html,css,postgresql,git,github,cpp,java&perline=7" />
+</p>
 
 ---
 
-## 🏅 **Achievements**
-✨ PM Committee Member — *Enactus New BSU*  
-✨ Passionate contributor to sustainable, community-driven projects  
-✨ Strong problem-solving mindset  
+## 🧩 **FEATURED PROJECTS — Distinctive Work**
+
+### **1. Shopilo — Elegant E-Commerce Experience**
+A modern web store built with Django, clean UX, and reliable backend logic.  
+🔗 https://github.com/HebaGenidy/shopilo-webapp  
+🛠️ Stack: Django, SQL, Authentication, Cart System
 
 ---
 
-## 🌿 **Beyond the Code**
-- 🥾 Hiking  
+### **2. W3Schools Clone — Frontend Precision Project**
+A structured, visually clean replication of the W3Schools interface.  
+🔗 https://github.com/HebaGenidy/W3Clone  
+🎨 Focus: UI, consistency, layout polish
+
+---
+
+### **3. Learning System Platform — Education Reinvented**
+A scalable system for managing courses & learning materials.  
+🔗 https://github.com/HebaGenidy/learning-system  
+📘 Stack: Django, ORM, Templates
+
+---
+
+## 🏅 **Achievements & Roles**
+- PM Committee Member — **Enactus New BSU**  
+- Contributor to sustainability-focused community projects  
+- Passionate about research, writing, and innovation  
+
+---
+
+## 🌿 **Interests & Inspirations**
 - ✍️ Writing  
 - 📚 Reading  
-- 🔍 Researching + exploring new ideas
+- 🥾 Hiking  
+- 🔍 Researching ideas & real-world problems  
 
 ---
 
-## 📊 **GitHub Analytics**
+## 📊 **Profile Statistics**
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=HebaGenidy&theme=midnight-purple&show_icons=true&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HebaGenidy&layout=compact&theme=midnight-purple&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=HebaGenidy&show_icons=true&theme=graywhite&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HebaGenidy&layout=compact&theme=graywhite&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=HebaGenidy&theme=graywhite&hide_border=true" />
 </p>
 
 ---
 
-## 🔥 **Contribution Streak**
+## 🎖️ **Trophy Showcase**
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=HebaGenidy&theme=purple-dark&date_format=M%20j%5B%2C%20Y%5D&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=HebaGenidy&theme=flat&no-frame=true&margin-w=10" />
 </p>
 
 ---
 
-## 🏆 **Trophies**
+## 🧠 **Personal Quote**
+> *"Every project is a story — code is just the language I write it in."*
+
+---
+
+## 🔗 **Find Me Online**
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HebaGenidy&theme=onedark&no-frame=true&column=6" />
+  <a href="https://portfolio-b5b2c.web.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
+  </a>
+  <a href="https://linkedin.com/in/heba-mohamed-5b829a2a4">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 </p>
 
----
-
-## 🌌 **Quote**
-> *“Build with purpose. Create with passion. Code with clarity.”*
-
----
-
-## 🔗 **Connect With Me**
+<!-- FOOTER LINE -->
 <p align="center">
-  <a href="https://portfolio-b5b2c.web.app/"><img src="https://img.shields.io/badge/Portfolio-8e2de2?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
-  <a href="https://linkedin.com/in/heba-mohamed-5b829a2a4"><img src="https://img.shields.io/badge/LinkedIn-4a00e0?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e2de2,100:4a00e0&height=150&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=black&height=2&section=footer" width="70%">
 </p>
