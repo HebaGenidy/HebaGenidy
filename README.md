@@ -1,118 +1,100 @@
-<!-- TOP BANNER -->
+<!-- TOP HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Glitch&size=45&duration=3000&color=8A2BE2&center=true&vCenter=true&width=1000&lines=✨+Heba+Mohamed+%7C+Full-Stack+Developer+✨;Creating+Sustainable+%26+Powerful+Tech+Solutions;Blending+Code+%2B+Creativity+%2B+Purpose" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:8e2de2,100:4a00e0&text=Heba%20Mohamed%20(HebaGenidy)&fontColor=ffffff&fontSize=42&animation=fadeIn" />
 </p>
 
+<!-- SUBTITLE -->
 <p align="center">
-  <img src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" width="300" />
-</p>
-
----
-
-## 🎨 **Who Am I? — A Creative Technologist**
-I'm **Heba Mohamed (HebaGenidy)** —  
-a **full-stack developer** passionate about:
-
-🌿 Sustainable Technology  
-💡 Clean & scalable software  
-🎨 Creative digital experiences  
-🔍 Research-driven innovation  
-
-I build **products that matter**, not just code.
-
----
-
-## 🚀 **My Stack — The Tools I Craft Experiences With**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,react,js,tailwind,html,css,postgresql,cpp,java,git,github,vscode&theme=light" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Sustainable+Tech+Enthusiast;Creative+Problem+Solver;Open-Source+Contributor" />
 </p>
 
 ---
 
-## 🛡️ **Signature Projects — My Craftsmanship**
+## 🧊 **About Me**
+<div style="background: rgba(255, 255, 255, 0.1); padding: 20px; border-radius: 15px;">
+I'm **Heba Mohamed**, a full-stack developer crafting clean, creative, and sustainable digital solutions.  
+I love blending **technology + design** to build powerful, meaningful tools.
+</div>
 
-### 🛒 **SHOPILO – E-Commerce Platform (Full Django Stack)**  
-A complete online shopping experience  
+---
+
+## 🛠️ **Tech Stack**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,python,django,postgresql,git,github,cpp,java&perline=6" />
+</p>
+
+---
+
+## 🧩 **Featured Projects**
+
+### 🛒 **Shopilo — Modern E-Commerce Platform**
+A Django-powered shopping experience with cart, authentication & admin dashboards.  
 🔗 https://github.com/HebaGenidy/shopilo-webapp
 
 ---
 
-### 🌎 **W3Schools Clone – Frontend UI Reimagined**  
-A clean, educational UI built from scratch  
+### 🎨 **W3Schools Clone — UI/UX Practice**
+A clean, responsive learning interface rebuilt from scratch.  
 🔗 https://github.com/HebaGenidy/W3Clone
 
 ---
 
-### 🎓 **Learning System Platform – Education Meets Tech**  
-A scalable digital learning environment  
+### 🎓 **Learning System Platform**
+Education-focused platform for managing courses & materials.  
 🔗 https://github.com/HebaGenidy/learning-system
 
 ---
 
-## 🏆 **Achievements & Impact**
-✨ **PM Committee Member – Enactus New BSU**  
-✨ Led and supported community innovation  
-✨ Advocating for sustainable tech solutions  
+## 🏅 **Achievements**
+✨ PM Committee Member — *Enactus New BSU*  
+✨ Passionate contributor to sustainable, community-driven projects  
+✨ Strong problem-solving mindset  
 
 ---
 
-## 💖 **My Life Beyond Code**
-Outside coding, you’ll find me:
-
-🥾 Hiking  
-📝 Writing  
-📚 Reading  
-🔍 Researching and exploring ideas  
-☕ Loving quiet, thoughtful moments  
+## 🌿 **Beyond the Code**
+- 🥾 Hiking  
+- ✍️ Writing  
+- 📚 Reading  
+- 🔍 Researching + exploring new ideas
 
 ---
 
-## 🌌 **GitHub Universe Stats**
+## 📊 **GitHub Analytics**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HebaGenidy&theme=radical&show_icons=true&hide_border=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HebaGenidy&layout=compact&theme=radical&hide_border=true" height="165">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=HebaGenidy&theme=midnight-purple&show_icons=true&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HebaGenidy&layout=compact&theme=midnight-purple&hide_border=true" />
 </p>
 
 ---
 
-## 🔥 **Streak · Consistency = Growth**
+## 🔥 **Contribution Streak**
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=HebaGenidy&theme=neon-palenight&hide_border=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=HebaGenidy&theme=purple-dark&date_format=M%20j%5B%2C%20Y%5D&hide_border=true" />
 </p>
 
 ---
 
-## 🏅 **Trophies — Polished Achievements**
+## 🏆 **Trophies**
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HebaGenidy&theme=monokai&no-frame=true&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=HebaGenidy&theme=onedark&no-frame=true&column=6" />
 </p>
 
 ---
 
-## 🌈 **Aesthetic Gradient Separator**
-<p align="center">
-  <img width="90%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4" />
-</p>
+## 🌌 **Quote**
+> *“Build with purpose. Create with passion. Code with clarity.”*
 
 ---
 
-## 💬 **Words I Live By**
-> *"Technology becomes art when it’s driven by purpose and crafted with love."*
-
----
-
-## 🤝 **Let’s Connect & Build Meaningful Things**
+## 🔗 **Connect With Me**
 <p align="center">
-  <a href="https://portfolio-b5b2c.web.app/">
-    <img src="https://img.shields.io/badge/Portfolio-✨_Visit_My_Work-8e44ad?style=for-the-badge">
-  </a>
-  <a href="https://linkedin.com/in/heba-mohamed-5b829a2a4">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin">
-  </a>
+  <a href="https://portfolio-b5b2c.web.app/"><img src="https://img.shields.io/badge/Portfolio-8e2de2?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
+  <a href="https://linkedin.com/in/heba-mohamed-5b829a2a4"><img src="https://img.shields.io/badge/LinkedIn-4a00e0?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=gradient" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e2de2,100:4a00e0&height=150&section=footer" />
 </p>
