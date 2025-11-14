@@ -1,109 +1,86 @@
-<!-- COVER PAGE -->
+<!-- HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Heba%20Mohamed%20%7C%20Full-Stack%20Developer&fontAlignY=40&fontSize=40&animation=fadeIn" />
+
+<!-- INTRO -->
+<h3 align="center">✨ Building sustainable tech solutions through clean code & creative design ✨</h3>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/HebaGenidy%20•%20Full--Stack%20Developer-000000?style=for-the-badge&logoColor=white" />
+  <a href="https://portfolio-b5b2c.web.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-1abc9c?style=for-the-badge"></a>
+  <a href="https://linkedin.com/in/heba-mohamed-5b829a2a4"><img src="https://img.shields.io/badge/LinkedIn-Heba%20Mohamed-0a66c2?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:"><img src="https://img.shields.io/badge/Contact-Email-orange?style=for-the-badge&logo=gmail"></a>
 </p>
 
-<h1 align="center" style="font-weight:900; font-size:48px;">HEBA MOHAMED</h1>
-<h3 align="center" style="font-weight:400;">Full-Stack Developer • Sustainable Tech Enthusiast • Creator</h3>
+---
 
-<br>
+## 🌱 **About Me**
+I’m **Heba Mohamed**, known as **HebaGenidy** — a full-stack developer passionate about  
+**sustainable technology, clean architecture, and meaningful digital experiences.**  
+I enjoy building tools that help people live, work, and create better.
 
-<!-- SECTION DIVIDER -->
+---
+
+## 🚀 **Tech Stack**
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=black&height=2&section=header" width="70%">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,python,django,postgresql,git,github,java,cpp&perline=6" />
 </p>
 
 ---
 
-## 🖋️ **PROFILE SUMMARY — The Art of Building With Purpose**
-I'm **Heba Mohamed (HebaGenidy)**, a developer focused on **clean software architecture**,  
-**sustainable technology**, and **modern, human-centered experiences**.
-
-I combine **technical craft + aesthetic design + thoughtful problem-solving**  
-to create impactful digital products.
-
----
-
-## 🧰 **Technical Toolbox — My Creative Instruments**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,react,tailwind,js,html,css,postgresql,git,github,cpp,java&perline=7" />
-</p>
-
----
-
-## 🧩 **FEATURED PROJECTS — Distinctive Work**
-
-### **1. Shopilo — Elegant E-Commerce Experience**
-A modern web store built with Django, clean UX, and reliable backend logic.  
+## 🏆 **Featured Projects**
+### 🛍️ **Shopilo – Full E-commerce Platform**
+**Django-based e-commerce** with authentication, cart system & admin dashboard.  
 🔗 https://github.com/HebaGenidy/shopilo-webapp  
-🛠️ Stack: Django, SQL, Authentication, Cart System
 
 ---
 
-### **2. W3Schools Clone — Frontend Precision Project**
-A structured, visually clean replication of the W3Schools interface.  
+### 🌐 **W3Schools Frontend Clone**
+A pixel-perfect UI/UX learning project built with HTML, CSS & JS.  
 🔗 https://github.com/HebaGenidy/W3Clone  
-🎨 Focus: UI, consistency, layout polish
 
 ---
 
-### **3. Learning System Platform — Education Reinvented**
-A scalable system for managing courses & learning materials.  
+### 🎓 **Learning System Platform**
+A scalable Django platform for managing courses and learning materials.  
 🔗 https://github.com/HebaGenidy/learning-system  
-📘 Stack: Django, ORM, Templates
 
 ---
 
-## 🏅 **Achievements & Roles**
-- PM Committee Member — **Enactus New BSU**  
-- Contributor to sustainability-focused community projects  
-- Passionate about research, writing, and innovation  
+## 🥇 **Achievements**
+- Active **PM Committee Member – Enactus New BSU**  
+- Led & contributed to multiple community-driven tech initiatives  
+- Passionate about sustainable digital solutions 🌿  
 
 ---
 
-## 🌿 **Interests & Inspirations**
-- ✍️ Writing  
-- 📚 Reading  
-- 🥾 Hiking  
-- 🔍 Researching ideas & real-world problems  
+## ✨ **Beyond Code**
+I’m also into:  
+📚 Reading — ✍️ Writing — 🥾 Hiking — 🔍 Researching creative ideas
 
 ---
 
-## 📊 **Profile Statistics**
+## 📊 **GitHub Analytics**
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=HebaGenidy&show_icons=true&theme=graywhite&hide_border=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HebaGenidy&layout=compact&theme=graywhite&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HebaGenidy&show_icons=true&theme=tokyonight&hide_border=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HebaGenidy&layout=compact&theme=tokyonight&hide_border=true" height="165">
 </p>
 
 <p align="center">
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=HebaGenidy&theme=graywhite&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HebaGenidy&theme=tokyonight&hide_border=true" height="165">
 </p>
 
 ---
 
-## 🎖️ **Trophy Showcase**
+## 🎨 **Fun Aesthetic Touch**
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HebaGenidy&theme=flat&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=HebaGenidy&theme=tokyonight&no-frame=true&margin-w=10" />
 </p>
 
 ---
 
-## 🧠 **Personal Quote**
-> *"Every project is a story — code is just the language I write it in."*
+## 💬 **Quote I Live By**
+> *"Technology becomes beautiful when it solves real problems and empowers people."*  
 
 ---
 
-## 🔗 **Find Me Online**
-<p align="center">
-  <a href="https://portfolio-b5b2c.web.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
-  </a>
-  <a href="https://linkedin.com/in/heba-mohamed-5b829a2a4">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</p>
-
-<!-- FOOTER LINE -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=black&height=2&section=footer" width="70%">
-</p>
+<!-- FOOTER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=footer" />
