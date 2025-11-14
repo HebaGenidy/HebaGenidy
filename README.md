@@ -1,100 +1,106 @@
-<!-- TOP HEADER -->
+<!-- CINEMATIC HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:8e2de2,100:4a00e0&text=Heba%20Mohamed%20(HebaGenidy)&fontColor=ffffff&fontSize=42&animation=fadeIn" />
+  <img src="https://github.com/rajputankit143/rajputankit143/blob/main/Futuristic.gif" width="900">
 </p>
 
-<!-- SUBTITLE -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Sustainable+Tech+Enthusiast;Creative+Problem+Solver;Open-Source+Contributor" />
-</p>
+<!-- FLOATING INTRO TEXT -->
+<h1 align="center" style="font-weight:700;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&duration=3500&color=00E5FF&center=true&vCenter=true&width=900&lines=Heba+Mohamed+(HebaGenidy);Full-Stack+Developer;Creator+of+Sustainable+Digital+Experiences;Blending+Tech+with+Purpose+%26+Design" />
+</h1>
 
 ---
 
-## 🧊 **About Me**
-<div style="background: rgba(255, 255, 255, 0.1); padding: 20px; border-radius: 15px;">
-I'm **Heba Mohamed**, a full-stack developer crafting clean, creative, and sustainable digital solutions.  
-I love blending **technology + design** to build powerful, meaningful tools.
+## 🧬 **About Me**
+<div style="padding: 18px; border-radius: 15px;
+background: linear-gradient(135deg, rgba(0,255,255,0.1), rgba(138,43,226,0.1));
+backdrop-filter: blur(8px); border: 1px solid rgba(255,255,255,0.2);">
+
+I'm **Heba Mohamed**, a full-stack developer with a deep passion for  
+**sustainability, creativity, scalable systems, and meaningful digital tools**.
+
+I believe the future of tech is:  
+✨ *Clean.*  
+✨ *Human-centered.*  
+✨ *Purpose-driven.*
 </div>
 
 ---
 
-## 🛠️ **Tech Stack**
+## ⚡ **Tech Arsenal**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,python,django,postgresql,git,github,cpp,java&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,django,react,js,tailwind,html,css,postgresql,cpp,java,git,github,vscode&theme=dark" />
 </p>
 
 ---
 
-## 🧩 **Featured Projects**
+## 🛠️ **Featured Works**
 
-### 🛒 **Shopilo — Modern E-Commerce Platform**
-A Django-powered shopping experience with cart, authentication & admin dashboards.  
+### 🛒 **Shopilo – Sustainable E-Commerce Platform**  
+**Django + SQL + Modern UI**  
 🔗 https://github.com/HebaGenidy/shopilo-webapp
 
 ---
 
-### 🎨 **W3Schools Clone — UI/UX Practice**
-A clean, responsive learning interface rebuilt from scratch.  
+### 🎨 **W3Schools Clone — Frontend UI Replica**  
+**Pixel-accuracy · UI practice · Modern styling**  
 🔗 https://github.com/HebaGenidy/W3Clone
 
 ---
 
 ### 🎓 **Learning System Platform**
-Education-focused platform for managing courses & materials.  
+**Educational environment for structured learning**  
 🔗 https://github.com/HebaGenidy/learning-system
 
 ---
 
-## 🏅 **Achievements**
+## 🏆 **Achievements**
 ✨ PM Committee Member — *Enactus New BSU*  
-✨ Passionate contributor to sustainable, community-driven projects  
-✨ Strong problem-solving mindset  
+✨ Project leadership & community impact  
+✨ Advocating for sustainable development  
 
 ---
 
-## 🌿 **Beyond the Code**
-- 🥾 Hiking  
-- ✍️ Writing  
-- 📚 Reading  
-- 🔍 Researching + exploring new ideas
-
----
-
-## 📊 **GitHub Analytics**
+## 🌌 **GitHub Galaxy Stats**
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=HebaGenidy&theme=midnight-purple&show_icons=true&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HebaGenidy&layout=compact&theme=midnight-purple&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HebaGenidy&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HebaGenidy&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=HebaGenidy&theme=neon-dark&hide_border=true" height="170">
 </p>
 
 ---
 
-## 🔥 **Contribution Streak**
+## 🛡️ **Trophies Wall**
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=HebaGenidy&theme=purple-dark&date_format=M%20j%5B%2C%20Y%5D&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=HebaGenidy&theme=dracula&no-frame=true&row=1&margin-w=10" />
 </p>
 
 ---
 
-## 🏆 **Trophies**
+## 🎭 **Aesthetic Divider**
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HebaGenidy&theme=onedark&no-frame=true&column=6" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00e5ff&section=header&height=3" width="80%" />
 </p>
 
 ---
 
-## 🌌 **Quote**
-> *“Build with purpose. Create with passion. Code with clarity.”*
+## 💬 **Quote**
+<p align="center">
+  <em>"Build things that outlast you — solutions that help people, code that inspires others."</em>
+</p>
 
 ---
 
 ## 🔗 **Connect With Me**
 <p align="center">
-  <a href="https://portfolio-b5b2c.web.app/"><img src="https://img.shields.io/badge/Portfolio-8e2de2?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
-  <a href="https://linkedin.com/in/heba-mohamed-5b829a2a4"><img src="https://img.shields.io/badge/LinkedIn-4a00e0?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://portfolio-b5b2c.web.app/"><img src="https://img.shields.io/badge/Portfolio-00E5FF?style=for-the-badge&logo=google-chrome&logoColor=000"></a>
+  <a href="https://linkedin.com/in/heba-mohamed-5b829a2a4"><img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=fff"></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e2de2,100:4a00e0&height=150&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:8A2BE2&height=160&section=footer" />
 </p>
