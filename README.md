@@ -1,78 +1,86 @@
-<h1 align="center">Hi there 👋, I'm Heba Mohamed (HebaGenidy)</h1>
-<h3 align="center">Full-stack developer passionate about building sustainable tech solutions</h3>
+<!-- HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Heba%20Mohamed%20%7C%20Full-Stack%20Developer&fontAlignY=40&fontSize=40&animation=fadeIn" />
 
----
+<!-- INTRO -->
+<h3 align="center">✨ Building sustainable tech solutions through clean code & creative design ✨</h3>
 
-### 🌱 About Me
-I’m a full-stack developer who loves turning ideas into functional, clean, and impactful products.  
-Currently focused on building tools that support **sustainable technology** and improve real-world workflows.
-
----
-
-### 🚀 Tech Stack & Skills
-
-**Frontend:**  
-`HTML` · `CSS` · `Tailwind CSS` · `JavaScript` · `React`
-
-**Backend:**  
-`Python` · `Django`
-
-**Databases:**  
-`SQL` · `PostgreSQL`
-
-**Other:**  
-`C++` · `Java` · Problem-solving · Version Control (Git/GitHub)
-
----
-
-### 🏗️ Featured Projects
-
-#### 🛒 **Shopilo – E-commerce Web Application**
-A full e-commerce website built with Django featuring product management, authentication, cart system, and payment flow.  
-🔗 **Repo:** https://github.com/HebaGenidy/shopilo-webapp
-
----
-
-#### 📘 **W3Schools Clone**
-A front-end web design project replicating the style and structure of W3Schools to improve UI/UX skills.  
-🔗 **Repo:** https://github.com/HebaGenidy/W3Clone
-
----
-
-#### 🎓 **Learning System Platform**
-A platform to manage and display learning materials, built with Python/Django and structured for scalability.  
-🔗 **Repo:** https://github.com/HebaGenidy/learning-system
-
----
-
-### 🏆 Achievements & Community Work
-- Member of **PM Committee – Enactus New BSU**, contributing to project management, innovation, and community impact.
-
----
-
-### ✨ Interests
-When I'm not coding, you’ll find me:  
-📚 Reading • ✍️ Writing • 🥾 Hiking • 🔍 Researching creative ideas
-
----
-
-### 🔗 Connect With Me
-- 🌐 Portfolio: **https://portfolio-b5b2c.web.app/**
-- 💼 LinkedIn: **linkedin.com/in/heba-mohamed-5b829a2a4**
-
----
-
-### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HebaGenidy&show_icons=true&theme=tokyonight" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HebaGenidy&layout=compact&theme=tokyonight" height="160px"/>
+  <a href="https://portfolio-b5b2c.web.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-1abc9c?style=for-the-badge"></a>
+  <a href="https://linkedin.com/in/heba-mohamed-5b829a2a4"><img src="https://img.shields.io/badge/LinkedIn-Heba%20Mohamed-0a66c2?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:"><img src="https://img.shields.io/badge/Contact-Email-orange?style=for-the-badge&logo=gmail"></a>
 </p>
 
 ---
 
-### 💡 Fun Fact
-I believe technology becomes truly meaningful when it solves real-world problems — especially those that make our future more sustainable 🌿.
+## 🌱 **About Me**
+I’m **Heba Mohamed**, known as **HebaGenidy** — a full-stack developer passionate about  
+**sustainable technology, clean architecture, and meaningful digital experiences.**  
+I enjoy building tools that help people live, work, and create better.
 
 ---
 
-✨ *Thanks for visiting my profile! Feel free to explore my repositories or reach out for collaboration.*  
+## 🚀 **Tech Stack**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,python,django,postgresql,git,github,java,cpp&perline=6" />
+</p>
+
+---
+
+## 🏆 **Featured Projects**
+### 🛍️ **Shopilo – Full E-commerce Platform**
+**Django-based e-commerce** with authentication, cart system & admin dashboard.  
+🔗 https://github.com/HebaGenidy/shopilo-webapp  
+
+---
+
+### 🌐 **W3Schools Frontend Clone**
+A pixel-perfect UI/UX learning project built with HTML, CSS & JS.  
+🔗 https://github.com/HebaGenidy/W3Clone  
+
+---
+
+### 🎓 **Learning System Platform**
+A scalable Django platform for managing courses and learning materials.  
+🔗 https://github.com/HebaGenidy/learning-system  
+
+---
+
+## 🥇 **Achievements**
+- Active **PM Committee Member – Enactus New BSU**  
+- Led & contributed to multiple community-driven tech initiatives  
+- Passionate about sustainable digital solutions 🌿  
+
+---
+
+## ✨ **Beyond Code**
+I’m also into:  
+📚 Reading — ✍️ Writing — 🥾 Hiking — 🔍 Researching creative ideas
+
+---
+
+## 📊 **GitHub Analytics**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HebaGenidy&show_icons=true&theme=tokyonight&hide_border=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HebaGenidy&layout=compact&theme=tokyonight&hide_border=true" height="165">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HebaGenidy&theme=tokyonight&hide_border=true" height="165">
+</p>
+
+---
+
+## 🎨 **Fun Aesthetic Touch**
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HebaGenidy&theme=tokyonight&no-frame=true&margin-w=10" />
+</p>
+
+---
+
+## 💬 **Quote I Live By**
+> *"Technology becomes beautiful when it solves real problems and empowers people."*  
+
+---
+
+<!-- FOOTER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=footer" />
